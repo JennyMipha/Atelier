@@ -13,7 +13,7 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## Overview
-This is a Front-End-Capstone project created by Theresa Tran, Pan Liu, Peter Phan, and Jennifer Lin during Hack Reactor. Using tools, such as React and Node.js, each member built out key components of the project while showcasing their front-end skills.
+This is a Front-End-Capstone project created by Jennifer Lin, Pan Liu, Peter Phan, and Theresa Tran during Hack Reactor. Using tools, such as React and Node.js, each member built out key components of the project while showcasing their front-end skills.
 
 ## Table of Contents
 1. Background
@@ -83,7 +83,7 @@ Contributor: Jennifer Lin
 
 [![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com.in/caleb-kim0510/)](https://www.linkedin.com/in/fylin/) &emsp; [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/cariboukim)](https://github.com/JennyMipha)
 
-The **Ratings & Reviews** component, created by Jennifer Lin, allows more insight on the satisfaction of previous consumers. 
+The **Ratings & Reviews** component, created by Jennifer Lin, extend the ability to write, read, and browse through reviews for the current product, allows more insight on the satisfaction of previous consumers. 
 
 Features included here gives users the ability to:
 
