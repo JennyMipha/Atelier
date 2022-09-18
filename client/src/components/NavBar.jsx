@@ -38,13 +38,13 @@ export default function NavBar() {
     <BarContainer>
       <div>
         <AppHeader>
-          <div>Dare to Wear</div>
-          <div style={{ fontStyle: 'normal' }}>{'(•_•) \u00A0\u00A0\u00A0\u00A0\u00A0 ( •_•)>⌐■-■ \u00A0\u00A0\u00A0\u00A0\u00A0 (⌐■_■)'}</div>
+          <div>Atelier</div>
+          {/* <div style={{ fontStyle: 'normal' }}>{'(•_•) \u00A0\u00A0\u00A0\u00A0\u00A0 ( •_•)>⌐■-■ \u00A0\u00A0\u00A0\u00A0\u00A0 (⌐■_■)'}</div> */}
         </AppHeader>
       </div>
 
       <NavContainer>
-        <div onClick={() => {handleNavClick('overview')}} >{'Product Details (some missing)'}</div>
+        <div onClick={() => {handleNavClick('overview')}} >{'Product Details'}</div>
         <hr></hr>
         <div onClick={() => {handleNavClick('related-products')}} >Random Related Products</div>
         <hr></hr>
